@@ -10,9 +10,8 @@
 
 🌐 I’ve developed real-world projects for small businesses, including:
 - Informational websites
-- Spring Boot backend applications
 - Component-based UIs with Angular
-- 
+- Wordpress Websites
 📫 Let’s connect!  
 [🌐 Portfolio Website](https://sbarquerodev.vercel.app/)  
 [💼 LinkedIn](https://www.linkedin.com/in/santiago-barquero-5687a4235/?originalSubdomain=cr)  
